@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/four-card-feature-section/static/css/main.f5277a07.css",
+    "main.js": "/four-card-feature-section/static/js/main.dc773a95.js",
+    "static/js/787.3f313a00.chunk.js": "/four-card-feature-section/static/js/787.3f313a00.chunk.js",
+    "static/media/Poppins-Thin.ttf": "/four-card-feature-section/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
+    "static/media/Poppins-Regular.ttf": "/four-card-feature-section/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/four-card-feature-section/static/media/Poppins-Bold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/icon-karma.svg": "/four-card-feature-section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/four-card-feature-section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/four-card-feature-section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/four-card-feature-section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/four-card-feature-section/index.html",
+    "main.f5277a07.css.map": "/four-card-feature-section/static/css/main.f5277a07.css.map",
+    "main.dc773a95.js.map": "/four-card-feature-section/static/js/main.dc773a95.js.map",
+    "787.3f313a00.chunk.js.map": "/four-card-feature-section/static/js/787.3f313a00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5277a07.css",
+    "static/js/main.dc773a95.js"
+  ]
+}
